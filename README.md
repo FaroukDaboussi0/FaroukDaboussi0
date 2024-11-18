@@ -11,11 +11,10 @@
 * **Data analysis and visualization** - I can make sense of any dataset! 📊 
 * **Cloud computing (AWS)** - I'm comfortable working in the cloud! ☁️ 
 
-**🔭  Currently, I'm focused on:**
+**🔭 Currently, I'm focused on:**
 
-* **Fine-tuning large language models (LLMs) for cybersecurity tasks.** 🛡️
-* **Developing AI-powered chatbots to provide personalized support.** 💬
-* **Creating a data warehouse for analyzing  sales data.** 🛒
+* Elevating Retail Insights with **DeepView**: Revolutionizing retail analytics through computer vision and advanced analytics, empowering data-driven decisions. 🛒
+* Democratizing Web Development with **INVADE**: Pioneering AI-powered, no-code web development to enable non-technical users to build web applications. 🌐
 
 **🤝 I'm always looking to collaborate on exciting new projects!** If you're working on something interesting, don't hesitate to reach out!
 
